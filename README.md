@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **alfredomtzg/alfredomtzg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Alfredo Martinez 🤓
+# I'm Alfredo Martinez, nice to meet you 🤓
 #### Front-end - Psychologist
 
-Front-End Developer 💻| Ux Research for the love of research 🕵🏾‍♂️ | Platzi Master Cohort 5 💪💚
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredomtzg&theme=radical)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alfredomtzg&theme=radical)
+>Front-End Developer 💻| Ux Research for the love of research 🕵🏾‍♂️ | Platzi Master Cohort 5 💪💚
+
+>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredomtzg&theme=radical)
+>![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alfredomtzg&theme=radical)
