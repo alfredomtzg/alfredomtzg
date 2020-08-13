@@ -19,5 +19,9 @@ Here are some ideas to get you started:
 
 ### Front-End Developer 💻| Ux Research for the love of research 🕵🏾‍♂️ | Platzi Master Cohort 5 💪💚
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredomtzg)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredomtzg&hide=javascript,html)](https://github.com/alfredomtzg/github-readme-stats)
+
 >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredomtzg&theme=radical)
 >![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alfredomtzg&theme=radical)
