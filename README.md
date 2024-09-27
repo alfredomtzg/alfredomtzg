@@ -4,7 +4,7 @@
 
 # I'm Alfredo Martinez, nice to meet you 🤓
 
-### Front-End Developer 💻| Ux Research for the love of research 🕵🏾‍♂️ | Platzi Master Cohort 5 💪💚
+### Sr. Sofware Developer at Phase2 | Front-End Developer 💻| Ux Research for the love of research 🕵🏾‍♂️ | Platzi Master Cohort 5 💪💚
 
 
 
